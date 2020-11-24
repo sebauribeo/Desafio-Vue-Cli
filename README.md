@@ -1,4 +1,4 @@
-# ocional_vue
+# Opcional_vue
 
 ## Project setup
 ```
